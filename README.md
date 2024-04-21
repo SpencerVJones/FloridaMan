@@ -7,6 +7,9 @@ iOS application that fetches data from the subreddit r/FloridaMan and displays i
 - Displays post titles, authors (with Reddit username format), and thumbnail images in a UITableView.
 - Provides a seamless user experience for browsing FloridaMan posts.
 
+## Demo
+![Demo](demo.gif)
+
 ## Installation
 To run this application, ensure you have Xcode installed on your macOS device. Follow these steps:
 1. Clone or download this repository.
